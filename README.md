@@ -4,7 +4,7 @@ Requirements
 Python 3.8.0
 
 How to run
-create virtual env python -m venv .venv
-activate virtual env . .venv/bin/activate
-install dependencies pip install -r requirements.txt
-get your credentials from https://www.visualcrossing.com/weather-api
+1. create virtual env python -m venv .venv
+2. activate virtual env . .venv/bin/activate
+3. install dependencies pip install -r requirements.txt
+4. get your credentials from https://www.visualcrossing.com/weather-api
