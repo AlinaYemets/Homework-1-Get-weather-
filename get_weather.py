@@ -77,7 +77,7 @@ def weather_endpoint():
     
     result = {
         "requester_name": requester_name,
-        "timestamp": dt.datetime.utcnow().isoformat() + "Z",
+        "timestamp": dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
         "location": location,
         "date": date,
         "weather": 
