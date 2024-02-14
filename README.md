@@ -1,7 +1,8 @@
 A code that will output the weather based on the date and location.
 
 Requirements
-Python 3.8.0
+
+ Python 3.8.0 
 
 How to run
 1. create virtual env python -m venv .venv
