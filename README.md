@@ -1,4 +1,4 @@
-__A code will output the weather based on the date and location.__
+__Code will output the weather based on the date and location.__
 
 __Requirements__
 
